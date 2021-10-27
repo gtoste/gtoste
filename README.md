@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gtoste
+- 👀 I’m interested in C#, Python, C++
+- 🌱 I’m currently learning C#, Python
